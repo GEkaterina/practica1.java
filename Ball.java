@@ -21,13 +21,13 @@ public class Ball
         color = "Red";
         diameter = 0;
     }
-    public void setAge(int diameter)
+    public void setAge(int d)
     {
-        this.diameter = diameter;
+        diameter = d;
     }
-    public void setColor(String color)
+    public void setColor(String c)
     {
-        this.color = color;
+        color = c;
     }
     public String getColor(String color)
     {
