@@ -39,7 +39,7 @@ public class Ball
     }
     public String toString()
     {
-        return c+", диаметр "+d;
+        return color+", диаметр "+diameter;
     }
     public void intoBallColor()
     {
